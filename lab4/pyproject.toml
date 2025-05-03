@@ -4,7 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
+    "keras>=3.9.2",
+    "keras-nightly>=3.10.0.dev2025050303",
     "matplotlib>=3.10.1",
+    "notebook>=7.4.1",
     "pandas>=2.2.3",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
